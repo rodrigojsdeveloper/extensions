@@ -3,7 +3,7 @@
 
   <br/>
   
-  <p>estensões que uso no meu VS Code</p>
+  <p>Estensões que uso no meu VS Code para aprimorar meu desenvolvimento.</p>
 </div>
 
 Link | Descrição |
@@ -18,3 +18,4 @@ Link | Descrição |
 | [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) | Este plugin substitui as configurações do usuário/espaço de trabalho pelas configurações encontradas no arquivo .editorconfig.
 | [IntelliSense](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion) | Uma extensão do Visual Studio Code que fornece preenchimento de nome de classe CSS para o class atributo HTML.
 | [styled-components](https://marketplace.visualstudio.com/items?itemName=styled-components.vscode-styled-components) | A extensão styled-components adiciona destaque e IntelliSense para cadeias de caracteres de modelo de componente estilizado em JavaScript e TypeScript.
+| [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) | Inicie um servidor de desenvolvimento local com recurso de recarga ao vivo para páginas estáticas e dinâmicas.
