@@ -1,8 +1,5 @@
 <div align="center">
-  <h1>Extensões</h1>
-
-  <br/>
-  
+  <h1>Extensões</h1>  
   <p>Estensões que uso no meu VS Code para aprimorar meu desenvolvimento.</p>
 </div>
 
@@ -19,3 +16,5 @@ Link | Descrição |
 | [IntelliSense](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion) | Uma extensão do Visual Studio Code que fornece preenchimento de nome de classe CSS para o class atributo HTML.
 | [styled-components](https://marketplace.visualstudio.com/items?itemName=styled-components.vscode-styled-components) | A extensão styled-components adiciona destaque e IntelliSense para cadeias de caracteres de modelo de componente estilizado em JavaScript e TypeScript.
 | [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) | Inicie um servidor de desenvolvimento local com recurso de recarga ao vivo para páginas estáticas e dinâmicas.
+| [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) | Prettier é um formatador de código opinativo. Ele impõe um estilo consistente analisando seu código e reimprimindo-o com suas próprias regras que levam em consideração o comprimento máximo da linha.
+| [Prisma](https://marketplace.visualstudio.com/items?itemName=Prisma.prisma) | Adiciona realce de sintaxe, linting, conclusão de código, formatação, salto para definição e muito mais para arquivos Prisma Schema.
