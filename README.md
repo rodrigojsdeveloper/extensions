@@ -20,3 +20,4 @@ Link | Descrição |
 | [Prisma](https://marketplace.visualstudio.com/items?itemName=Prisma.prisma) | Adiciona realce de sintaxe, linting, conclusão de código, formatação, salto para definição e muito mais para arquivos Prisma Schema.
 | [IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) | O IntelliCode oferece recursos de desenvolvimento assistidos por IA que proporcionam insights baseados na compreensão do contexto do seu código, utilizando técnicas de aprendizado de máquina.
 | [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport) | Encontra, analisa e fornece automaticamente ações de código e preenchimento de código para todas as importações disponíveis.
+| [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap) | Faça lindas capturas de tela do seu código no VS Code.
