@@ -8,3 +8,4 @@ Link | Descrição |
 | [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight) | Esta extensão estiliza as cores CSS/web encontradas em seu código.
 | [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.dracula) | Um tema sombrio para Visual Studio.
 | [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) | ESLint analisa estaticamente seu código para encontrar problemas rapidamente.
+| [Fluent Icons](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.fluent-icons) | Fluent Icons personaliza os ícones usados ​​nas visualizações integradas do VS Code.
