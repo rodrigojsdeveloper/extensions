@@ -17,3 +17,4 @@ Link | Descrição |
 | [Symbols](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols) | Um tema de ícone de arquivo e pasta simples para VS Code.
 | [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) | Este plugin substitui as configurações do usuário/espaço de trabalho pelas configurações encontradas no arquivo .editorconfig.
 | [IntelliSense](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion) | Uma extensão do Visual Studio Code que fornece preenchimento de nome de classe CSS para o class atributo HTML.
+| [styled-components](https://marketplace.visualstudio.com/items?itemName=styled-components.vscode-styled-components) | A extensão styled-components adiciona destaque e IntelliSense para cadeias de caracteres de modelo de componente estilizado em JavaScript e TypeScript.
