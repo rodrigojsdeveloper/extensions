@@ -21,3 +21,5 @@ Link | Descrição |
 | [IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) | O IntelliCode oferece recursos de desenvolvimento assistidos por IA que proporcionam insights baseados na compreensão do contexto do seu código, utilizando técnicas de aprendizado de máquina.
 | [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport) | Encontra, analisa e fornece automaticamente ações de código e preenchimento de código para todas as importações disponíveis.
 | [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap) | Faça lindas capturas de tela do seu código no VS Code.
+| [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) | A extensão Better Comments ajudará você a criar comentários mais amigáveis ​​em seu código.
+| [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) | Tailwind CSS IntelliSense aprimora a experiência de desenvolvimento do Tailwind, fornecendo recursos avançados, como preenchimento automático, realce de sintaxe e linting.
