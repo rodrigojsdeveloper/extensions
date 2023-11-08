@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Extensões</h1>  
-  <p>Estensões que uso no meu VS Code para aprimorar meu desenvolvimento.</p>
+  <p>Extensões utilizadas no meu VS Code para aprimorar o desenvolvimento.</p>
 </div>
 
 Link | Descrição |
