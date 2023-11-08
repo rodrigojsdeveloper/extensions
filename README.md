@@ -10,3 +10,4 @@ Link | Descrição |
 | [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) | ESLint analisa estaticamente seu código para encontrar problemas rapidamente.
 | [Fluent Icons](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.fluent-icons) | Fluent Icons personaliza os ícones usados ​​nas visualizações integradas do VS Code.
 | [Symbols](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols) | Um tema de ícone de arquivo e pasta simples para VS Code.
+| [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) | Este plugin substitui as configurações do usuário/espaço de trabalho pelas configurações encontradas no arquivo .editorconfig.
