@@ -4,3 +4,4 @@
 Link | Descrição |
 |---|---|
 | [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) | GitLens é a ferramenta definitiva para fazer o Git trabalhar para você.
+| [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) | Execute trecho de código ou arquivo de código em várias linguagens.
