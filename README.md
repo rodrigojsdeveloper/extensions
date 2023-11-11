@@ -23,3 +23,7 @@ Link | Descrição |
 | [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap) | Faça lindas capturas de tela do seu código no VS Code.
 | [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) | A extensão Better Comments ajudará você a criar comentários mais amigáveis ​​em seu código.
 | [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) | Tailwind CSS IntelliSense aprimora a experiência de desenvolvimento do Tailwind, fornecendo recursos avançados, como preenchimento automático, realce de sintaxe e linting.
+
+<br/>
+<p align="center">Desenvolvido por <a href="https://www.linkedin.com/in/rodrigo-de-jesus-silva/">Rodrigo Silva</a>
+</p>
